@@ -1,4 +1,4 @@
-import timeddd
+import time
 import pyautogui as pag
 pag.press("winleft", _pause=True)
 time.sleep(0.5)
